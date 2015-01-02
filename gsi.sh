@@ -91,6 +91,7 @@ $store -resize 548x548 -extent 640x1096 "./res/playstore/telefone2.png"
 $store -resize 666x666 -extent 750x1334 "./res/playstore/tv.png"
 $store -resize 666x666 -extent 1242x2208 "./res/playstore/tablet10.png"
 $store -resize 666x666 -extent 768x1024 "./res/playstore/tablet7.png"
+$store -resize 500x500 -extent 1024x500 "./res/playstore/recursos-graficos.png"
 $icons -resize 512x512 "./res/playstore/icon-512x512.png"
 
 # Ref: http://cordova.apache.org/docs/en/3.6.0/config_ref_images.md.html

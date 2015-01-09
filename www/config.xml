@@ -118,6 +118,9 @@
 <gap:splash src="res/screen/android/drawable-port-xxhdpi.png" gap:platform="android" gap:qualifier="port-xxhdpi" />
 <gap:splash src="res/screen/android/drawable-land-xxhdpi.png" gap:platform="android" gap:qualifier="land-xxhdpi" />
     
+<!-- Caso não consiga encontra o icone, segue o caminho par o ser utilizado por default -->
+<icon src="res/icon/icon.png" />
+        
    
 <!-- Solicita acesso ao aparelho -->
 <feature name="http://api.phonegap.com/1.0/device" />
